@@ -14,8 +14,7 @@
 
 - *It took me around 10 hours to complete the webpage.*
 
-# Live link of projects:
- [project 09]()
+ #[Live project 09](https://candid-shortbread-89c2de.netlify.app/)
 
  ### Preview:
 
